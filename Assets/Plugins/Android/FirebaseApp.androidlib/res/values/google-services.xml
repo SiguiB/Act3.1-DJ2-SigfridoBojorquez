@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">70306672174</string>
+  <string name="google_storage_bucket" translatable="false">fir-unity-d508e.appspot.com</string>
+  <string name="project_id" translatable="false">fir-unity-d508e</string>
+  <string name="google_api_key" translatable="false">AIzaSyCjXY2n0cdoHmkOD9BpqZnvaac4B_9fPpI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjXY2n0cdoHmkOD9BpqZnvaac4B_9fPpI</string>
+  <string name="google_app_id" translatable="false">1:70306672174:android:cdbef7bb455eac4a9bb9bf</string>
+  <string name="default_web_client_id" translatable="false">70306672174-pqhtgtm6aib1sq8hus0aji582qrl7eb3.apps.googleusercontent.com</string>
+</resources>

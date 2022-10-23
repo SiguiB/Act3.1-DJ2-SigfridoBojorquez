@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70306672174",
+    "project_id": "fir-unity-d508e",
+    "storage_bucket": "fir-unity-d508e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70306672174:android:af771e66bbf7d4669bb9bf",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.PrimerJuego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70306672174-pqhtgtm6aib1sq8hus0aji582qrl7eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXY2n0cdoHmkOD9BpqZnvaac4B_9fPpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70306672174-pqhtgtm6aib1sq8hus0aji582qrl7eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
